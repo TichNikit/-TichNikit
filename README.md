@@ -8,6 +8,7 @@
 - Python
 - SQL
 - HTML
+
 Фреймворки:
 - FastAPI
 - Flask
